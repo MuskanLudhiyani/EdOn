@@ -314,7 +314,8 @@ class _ViewAssignmentState extends State<ViewAssignment> {
                                             style: CustomStyle
                                                 .customButtonTextStyle(
                                                     fontWeight:
-                                                        FontWeight.bold),
+                                                        FontWeight.bold,
+                                            color:Colors.white),
                                           ),
                                           trailing: GestureDetector(
                                             onTap: () {

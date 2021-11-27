@@ -26,7 +26,8 @@ class _SubjectSearchScreenState extends State<SubjectSearchScreen> {
         ),
         title: TextField(
           autofocus: true,
-          decoration: InputDecoration(hintText: 'Search...'),
+          style: TextStyle(color: Colors.white),
+          decoration: InputDecoration(hintText: 'Search...',),
           onChanged: (val) {
             setState(() {
               name = val.toLowerCase().trim();
