@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "636566468193",
+    "project_id": "edon-323e3",
+    "storage_bucket": "edon-323e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636566468193:android:0adf9a014f96151e501c20",
+        "android_client_info": {
+          "package_name": "com.example.ed_on"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "636566468193-voflk0u0mvthgg88g4v3rgrpesdgcum5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDA5DzETT8wJwfluZ3oTIXXdnxERP26Omk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "636566468193-voflk0u0mvthgg88g4v3rgrpesdgcum5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
