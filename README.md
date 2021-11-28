@@ -7,5 +7,5 @@
  
 
 
-### Screenshots - <a href = "https://github.com/MuskanLudhiyani/EdOn/tree/master/screenshots"> Go to Apk </a> 
+### Screenshots - <a href = "https://github.com/MuskanLudhiyani/EdOn/tree/master/screenshots"> Go to Screenshots </a> 
  
